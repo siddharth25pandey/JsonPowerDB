@@ -13,27 +13,39 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 
 ### Json PowerDB Documentation
 * [JPDB Document](http://login2explore.com/jpdb/docs.html)
+* [Java Script Library](https://login2explore.com/jpdb/resources/js/0.0.3/jpdb-commons.js) (JPDB using jpdb common js - A Javascript library to make it even easy and fast for developers)
 
 ### CRUD operations
 * Create (PUT): Use to Insert single record in the database
 
  `Http method : POST`
+ 
 `Base url : http://api.login2explore.com:5577`
+
 `End-point url : /api/iml (mentioned in command when different)`
+
 * Read (GET): Retrieve single record by json data ( Deprecated - use GET_BY_KEY)
 
  `Http method : POST`
+ 
 `Base url : http://api.login2explore.com:5577`
+
 `End-point url : /api/irl`
+
 * Update (UPDATE): Update multiple records in the database or add a new column in a record
 
  `Http method : POST`
+ 
 `Base url : http://api.login2explore.com:5577`
+
 `End-point url : /api/iml (mentioned in command when different)`
+
 * Delete (Remove):Remove records from the database
 
  `Http method : POST`
+ 
 `Base url : http://api.login2explore.com:5577`
+
 `End-point url : /api/iml (mentioned in command when different)`
 
 **IML (JPDB Index Manipulation Language) - To insert, update and delete Json data.**
