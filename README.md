@@ -13,10 +13,10 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 
 ## Scrrenshots
 **JPDB**
-![JPDB](https://github.com/siddharth25pandey/JsonPowerDB/blob/main/Screenshot/ss1.PNG)
+![JPDB](https://github.com/siddharth25pandey/JsonPowerDB/blob/main/Screenshots/ss1.PNG)
 
 **Talent API Tester**
-![JPDB](https://github.com/siddharth25pandey/JsonPowerDB/blob/main/Screenshot/ss2.PNG)
+![JPDB](https://github.com/siddharth25pandey/JsonPowerDB/blob/main/Screenshots/ss2.PNG)
 
 ### Json PowerDB Documentation
 * [JPDB Document](http://login2explore.com/jpdb/docs.html)
