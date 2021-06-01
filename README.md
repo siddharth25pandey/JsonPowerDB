@@ -16,18 +16,22 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 
 ### CRUD operations
 * Create (PUT): Use to Insert single record in the database
+
  `Http method : POST`
 `Base url : http://api.login2explore.com:5577`
 `End-point url : /api/iml (mentioned in command when different)`
 * Read (GET): Retrieve single record by json data ( Deprecated - use GET_BY_KEY)
+
  `Http method : POST`
 `Base url : http://api.login2explore.com:5577`
 `End-point url : /api/irl`
 * Update (UPDATE): Update multiple records in the database or add a new column in a record
+
  `Http method : POST`
 `Base url : http://api.login2explore.com:5577`
 `End-point url : /api/iml (mentioned in command when different)`
 * Delete (Remove):Remove records from the database
+
  `Http method : POST`
 `Base url : http://api.login2explore.com:5577`
 `End-point url : /api/iml (mentioned in command when different)`
