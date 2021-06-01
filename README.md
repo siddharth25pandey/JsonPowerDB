@@ -33,5 +33,6 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 `End-point url : /api/iml (mentioned in command when different)`
 
 **IML (JPDB Index Manipulation Language) - To insert, update and delete Json data.**
+
 **IRL (JPDB Index Retrieval Language) - To retrieve Json data.**
 
