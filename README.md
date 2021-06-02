@@ -48,7 +48,7 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 
 `End-point url : /api/iml (mentioned in command when different)`
 
-* Delete (Remove):Remove records from the database
+* Delete (REMOVE):Remove records from the database
 
  `Http method : POST`
  
